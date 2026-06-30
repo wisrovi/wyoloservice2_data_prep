@@ -34,4 +34,4 @@ wyolo-validate --yaml /datasets/AIDIAGNOST/classification/ages_classification/
 This tool is natively designed to be embedded within your Celery worker pipelines or CI/CD actions. It ensures data integrity *before* launching expensive Optuna hyperparameter sweeps.
 
 ---
-**Author:** Jose Manuel Pecero Blanco
+**Author:** William Rodriguez (Wisrovi)

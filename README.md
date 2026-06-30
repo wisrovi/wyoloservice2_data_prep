@@ -1,6 +1,6 @@
 # 🛠️ NeuralForgeAI Data Prep (`wyoloservice-data-prep`)
 
-[![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)](https://github.com/wisrovi/wyoloservice2_data_prep)
+[![Version](https://img.shields.io/badge/version-0.3.0-blue.svg)](https://github.com/wisrovi/wyoloservice2_data_prep)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/wyoloservice-data-prep.svg)](https://pypi.org/project/wyoloservice-data-prep/)
